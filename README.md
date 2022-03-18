@@ -12,7 +12,7 @@ introduction:
 5. fputest
     * test fpu instructions
 
-migrate notes:
+migrate notes:123
 
 1. All testcases will be loaded into 0xBFC00000 - 0xBFCFFFFF.
 2. When encounter test failure, framework will write 1 to 0xB0000000
